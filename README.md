@@ -1,6 +1,6 @@
 # Ray Tracer Cube Texturizado
 
-Raytracer en Rust que renderiza un cubo con textura (Fabric006 de ambientCG) e iluminacion difusa (Lambert)
+Raytracer en Rust que renderiza un cubo con textura Fabric006 https://ambientcg.com/view?id=Fabric006 e iluminacion difusa (Lambert)
 ## Como correrlo
 ```
 cargo run --release
